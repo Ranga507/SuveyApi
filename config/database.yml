@@ -1,0 +1,10 @@
+development:
+  adapter: postgresql
+  host: "localhost"
+  username: "postgres"
+  password: "000000"
+  database: survey_dev
+  port: 5432
+  reconnect: true
+  pool: 10
+  timeout: 5000
